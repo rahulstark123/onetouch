@@ -1,0 +1,17 @@
+<style>
+body {color: seagreen ; }
+hr{
+   border-style: none;
+   border-top-style: dotted;
+   border-spacing: 10cm;
+   border-color: rgb(20, 220, 210);
+   border-width: 10px;
+   width: 100%;
+}
+h1{
+    color: #583d72;
+}
+h2{
+    color: red;
+}
+</style>
